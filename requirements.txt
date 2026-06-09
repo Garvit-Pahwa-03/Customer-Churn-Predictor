@@ -1,0 +1,5 @@
+streamlit
+streamlit-cloud-config
+joblib
+numpy
+scikit-learn
