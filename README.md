@@ -4,7 +4,7 @@ A machine learning web application that predicts whether a telecom customer is l
 
 ## 🚀 Live Demo
 
-> Add your Streamlit deployment link here
+https://garvit-pahwa-03-customer-churn-predictor-app-qk2s4d.streamlit.app
 
 ---
 
@@ -77,7 +77,3 @@ streamlit run app.py
 `Python` `scikit-learn` `Streamlit` `pandas` `NumPy` `joblib`
 
 ---
-
-## 📄 License
-
-MIT License
